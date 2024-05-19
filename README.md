@@ -1,7 +1,4 @@
-# Tugas Kasus 1 
-
-### Pengantar Pemrosesan Data Multimedia
-
+# Tugas Kasus 1 Pengantar Pemrosesan Data Multimedia
 
 ### Analisis Sentimen Ulasan Aplikasi Gojek menggunakan TF-IDF dan SVM
 
